@@ -12,6 +12,11 @@ The project is based on the idea of a popular android/ios app - DUAL.
 
 The expected outcome of the project was to learn an easier form of _hardware design_
 
+### Protocols used:
+ - VGA
+ - PS/2 (Keyboard interface)
+ - Pin connecting (synchronisation between two boards)
+ - SDRAM controller (readonly)
 # Hardware and software
 In order to successfully run and test the project, you will need the following:
 ### Software:
