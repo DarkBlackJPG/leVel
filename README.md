@@ -16,7 +16,7 @@ The expected outcome of the project was to learn an easier form of _hardware des
  - VGA
  - PS/2 (Keyboard interface)
  - Pin connecting (synchronisation between two boards)
- - SDRAM controller (readonly)
+ - [SDRAM controller (readonly)](http://www.cs.columbia.edu/~sedwards/classes/2009/4840/ISC-IS42S16400-SDRAM.pdf)
 # Hardware and software
 In order to successfully run and test the project, you will need the following:
 ### Software:
